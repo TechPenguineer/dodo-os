@@ -13,8 +13,11 @@ feel free to check out the code if you would like.
 ## what is being used?
 
 [Docker](https://www.docker.com/)
+
 [QEMU](https://www.qemu.org/)
+
 [GCC CROSS-x86-64-elf](https://hub.docker.com/r/randomdude/gcc-cross-x86_64-elf)
+
 [NASM, XORRISO, GRUB]
 
 
